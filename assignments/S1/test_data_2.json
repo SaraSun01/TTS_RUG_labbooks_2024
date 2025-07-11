@@ -1,0 +1,25 @@
+[
+  {
+    "title": "simple case",
+    "data": "General info about RUG can be found here: https://www.rug.nl/info/contact",
+    "solution": ["https://www.rug.nl/info/contact"]
+  },
+  {
+    "title": "complex case 1",
+    "data": "You can read more about regular expressions on https://en.wikipedia.org/wiki/Regular_expression#Syntax.",
+    "solution": ["https://en.wikipedia.org/wiki/Regular_expression#Syntax"]
+  },
+  {
+    "title": "complex case",
+    "data": "You can always try google.com/search?q=python%20re, there is a lot of information out there.",
+    "solution": ["google.com/search?q=python%20re"]
+  },
+    {
+    "title": "edge case",
+    "data": "A typical URL could have the form http://www.example.com/index.html. Wikipedia has a lot of information about URLs (https://en.wikipedia.org/wiki/URL).",
+    "solution": [
+      "http://www.example.com/index.html",
+      "https://en.wikipedia.org/wiki/URL"
+    ]
+  }
+]
